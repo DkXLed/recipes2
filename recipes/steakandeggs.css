@@ -39,3 +39,7 @@ home{
     width: 200px;
     font-style: italic;
 }
+
+h1, h3{
+    text-decoration: underline;
+}
