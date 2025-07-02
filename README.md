@@ -1,2 +1,1 @@
-# recipes2
-Remaking the recipes project to unsure smooth coding
+this repo was made to remake code in Recipes project, without editing original
