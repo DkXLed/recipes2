@@ -27,3 +27,15 @@ ul, ol{
     display: inline-block;
     text-align: left;
 }
+
+home{
+    text-align: center;
+    border: black 5px;
+    margin: 0 auto 50px;
+    position: relative;
+    padding: 25px 25px;
+    background-color: rgb(222, 246, 255);
+    font-size: x-large;
+    width: 200px;
+    font-style: italic;
+}
