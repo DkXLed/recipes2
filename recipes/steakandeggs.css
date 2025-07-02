@@ -1,0 +1,29 @@
+/* style.css */
+
+*{
+    background-color: #ffe5e5;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    text-align: center;
+    margin: 100px;
+}
+
+img{
+    display: block;
+    margin: auto;
+    margin-bottom: 100px;
+    width: 500px;
+    box-align: center ;
+}
+
+body{
+    text-align: center;
+    list-style-position: inside;
+}
+
+ul, ol{
+    display: inline-block;
+    text-align: left;
+}
